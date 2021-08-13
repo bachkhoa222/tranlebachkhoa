@@ -1,2 +1,2 @@
 # tranlebachkhoa
-http:alittlegiftforu.github.io
+http://alittlegiftforu.github.io
